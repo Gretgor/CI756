@@ -1,5 +1,5 @@
 # CI756
-Trabalho 3 de CI756, Geometria Computacional
+Trabalho de CI756, Geometria Computacional (Cursado em 2016)
 
 Problema resolvido: dado um conjunto de segmentos de reta e um retângulo no plano, encontrar todos os segmentos que intersectam o retângulo.
 
